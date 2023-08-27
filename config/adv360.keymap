@@ -76,11 +76,11 @@
 
         layer_linux {
             bindings = <
-        &trans  &trans  &trans  &trans     &trans  &trans            &trans                                                  &trans  &trans     &trans  &trans  &trans  &trans  &trans
-        &trans  &trans  &trans  &trans     &trans  &trans            &trans                                                  &trans  &trans     &trans  &trans  &trans  &trans  &trans
-        &trans  &trans  &trans  &trans     &trans  &trans            &trans  &trans  &trans                  &trans  &trans  &trans  &trans     &trans  &trans  &trans  &trans  &trans
-        &trans  &trans  &trans  &trans     &trans  &trans                            &trans                  &trans                  &trans     &trans  &trans  &trans  &trans  &trans
- &kp LEFT_META  &trans  &trans  &trans  &kp LCTRL                    &trans  &trans  &trans                  &trans  &trans  &trans          &kp RCTRL  &trans  &trans  &trans  &trans
+        &trans  &trans  &trans  &trans     &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+        &trans  &trans  &trans  &trans     &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+        &trans  &trans  &trans  &trans     &trans  &trans            &trans  &trans  &trans                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+        &trans  &trans  &trans  &trans     &trans  &trans                            &trans                  &trans                  &trans  &trans  &trans  &trans  &trans  &trans
+ &kp LEFT_META  &trans  &trans  &trans  &kp LCTRL                    &trans  &trans  &trans                  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
             >;
         };
 
