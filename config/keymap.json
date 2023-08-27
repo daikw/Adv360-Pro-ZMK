@@ -35,11 +35,11 @@
               "&trans", "&trans", "&trans", "&trans",    "&trans", "&trans",                               "&trans",                     "&trans",                     "&trans",    "&trans", "&trans", "&trans", "&trans",         "&trans",
        "&kp LEFT_META", "&trans", "&trans", "&trans", "&kp LCTRL",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",           "&kp RCTRL", "&trans", "&trans", "&trans", "&kp RIGHT_META"
     ], [
-              "&trans", "&trans", "&trans", "&trans",    "&trans", "&trans",           "&trans",                                                             "&trans", "&trans", "&trans", "&trans", "&trans",     "&trans", "&trans",
-              "&trans", "&trans", "&trans", "&trans",    "&trans", "&trans",           "&trans",                                                             "&trans", "&trans", "&trans", "&trans", "&trans",     "&trans", "&trans",
-              "&trans", "&trans", "&trans", "&trans",    "&trans", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",     "&trans", "&trans",
-              "&trans", "&trans", "&trans", "&trans",    "&trans", "&trans",                               "&trans",                     "&trans",                     "&trans", "&trans", "&trans", "&trans",     "&trans", "&trans",
-       "&kp LEFT_META", "&trans", "&trans", "&trans", "&kp LCTRL",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&kp SYSREQ", "&trans"
+              "&trans", "&trans", "&trans", "&trans",    "&trans", "&trans",           "&trans",                                                             "&trans", "&trans",    "&trans", "&trans", "&trans",     "&trans", "&trans",
+              "&trans", "&trans", "&trans", "&trans",    "&trans", "&trans",           "&trans",                                                             "&trans", "&trans",    "&trans", "&trans", "&trans",     "&trans", "&trans",
+              "&trans", "&trans", "&trans", "&trans",    "&trans", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans",    "&trans", "&trans", "&trans",     "&trans", "&trans",
+              "&trans", "&trans", "&trans", "&trans",    "&trans", "&trans",                               "&trans",                     "&trans",                     "&trans",    "&trans", "&trans", "&trans",     "&trans", "&trans",
+       "&kp LEFT_META", "&trans", "&trans", "&trans", "&kp LCTRL",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",           "&kp RCTRL", "&trans", "&trans", "&kp SYSREQ", "&trans"
     ]
   ]
 }
